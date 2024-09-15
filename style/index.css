@@ -1,0 +1,137 @@
+.screen {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: flex-end;
+    align-items: center;
+    background-color:cadetblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.form {
+	box-sizing: border-box;
+	max-width: 700px;
+	width: 900px;
+	min-height: 500px;
+    background-color: #ff0000d9;
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+    justify-content: start;
+}
+.contain{
+display: flex;
+justify-content: space-between;
+width: 900px;
+height: 500px;
+left: 800px;
+margin-right: 250px;
+top: 40px;
+background: #ff0000;
+box-shadow: 0px 0px 32px rgba(0, 0, 0, 0.25);
+}
+.duck-orangecolor{
+    background-color: chocolate;
+    width: 300px;
+}
+.info1{
+    max-width: 100%;
+	width: 60%;
+	min-height: 10px;
+	margin-top: 10px;
+    margin-right: 50px;
+	margin-left: 60px;
+    border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	border-bottom: 2px solid rgba(70, 96, 96, 1);
+	background-color: rgba(255, 0, 17, 0.7);
+	padding-left: 7px;
+}
+.info2{
+    max-width: 100%;
+	width:20%;
+	height: 30px;
+	min-height: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    margin-right: 50px;
+	margin-left: 60px;
+	border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	border-bottom: 2px solid rgba(70, 96, 96, 1);
+	background-color: rgba(255, 0, 17, 0.7);
+	padding-left: 7px;
+}
+.info3{
+    max-width: 100%;
+	width: 20%;
+	min-height: 10px;
+	margin-top: 10px;
+    margin-right: 50px;
+	margin-left: 60px;
+    border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	border-bottom: 2px solid rgba(70, 96, 96, 1);
+	background-color: rgba(255, 0, 17, 0.7);
+	padding-left: 7px;
+}
+.info4{
+    max-width: 100%;
+	width: 60%;
+	min-height: 10px;
+	margin-top: 10px;
+    margin-right: 50px;
+	margin-left: 60px;
+    border-left: 0px;
+	border-right: 0px;
+	border-top: 0px;
+	border-bottom: 2px solid rgba(70, 96, 96, 1);
+	background-color: rgba(255, 0, 17, 0.7);
+	padding-left: 7px;
+}
+.sendmessage{
+width: 202px;
+height: 48px;
+left: 4000px;
+top: 5000px;
+
+background: #468189;
+box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+
+width: 150px;
+height: 50px;
+margin-top: 40px;
+margin-left: 40%;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color:#ffffff;
+}
+.duck{
+height: 500px;
+margin-top: 40px;
+margin-bottom: 20px;
+margin-left: -250px;
+}
+p{ 
+max-width: 100%;
+width: 50%;
+min-height: 2px;
+margin-top: 30px;
+margin-bottom: 0px;
+margin-right: 50px;
+margin-left: 60px;
+color: white;	
+}
